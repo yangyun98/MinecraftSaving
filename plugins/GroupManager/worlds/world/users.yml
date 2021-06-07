@@ -1,0 +1,13 @@
+users:
+  example:
+    group: Builder
+    subgroups: []
+    permissions:
+    - example
+  f4b39297-a318-3efa-9948-77cea578cd7b:
+    lastname: yangyun
+    group: Default
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '2b:'

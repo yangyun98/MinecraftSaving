@@ -1,0 +1,28 @@
+lastAccountName: wzhone
+timestamps:
+  login: 1623047494027
+  logout: 1623048556816
+  lastteleport: 1623041483996
+ipAddress: 192.168.1.154
+lastlocation:
+  world: world
+  x: 322.23860422221696
+  y: 78.0
+  z: -430.29811373967743
+  yaw: -318.40152
+  pitch: -3.3028157
+logoutlocation:
+  world: world
+  x: 373.1377455924165
+  y: 80.0
+  z: -453.023254765819
+  yaw: -271.87036
+  pitch: 26.849611
+homes:
+  home:
+    world: world
+    x: 385.162468062994
+    y: 80.5
+    z: -443.7295872730026
+    yaw: 6.0394897
+    pitch: 25.350584

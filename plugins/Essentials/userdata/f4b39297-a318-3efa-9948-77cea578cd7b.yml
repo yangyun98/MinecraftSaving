@@ -1,0 +1,28 @@
+lastAccountName: yangyun
+timestamps:
+  login: 1623047500700
+  logout: 1623048513967
+  lastteleport: 1623044345731
+ipAddress: 192.168.1.201
+lastlocation:
+  world: world
+  x: 339.00562087544597
+  y: 76.0
+  z: -442.7910453337779
+  yaw: 0.736969
+  pitch: 13.499983
+logoutlocation:
+  world: world
+  x: 385.14455545652015
+  y: 80.0
+  z: -449.1390265612987
+  yaw: 333.5341
+  pitch: 40.050056
+homes:
+  home:
+    world: world
+    x: 383.73483840204875
+    y: 80.0
+    z: -443.5991573336175
+    yaw: -12.627472
+    pitch: 19.649675
